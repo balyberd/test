@@ -1,0 +1,11 @@
+C:\Users\Че\source\repos\calcubal\calcubal\obj\Debug\netcoreapp3.0\calcubal.csprojAssemblyReference.cache
+C:\Users\Че\source\repos\calcubal\calcubal\obj\Debug\netcoreapp3.0\calcubal.AssemblyInfoInputs.cache
+C:\Users\Че\source\repos\calcubal\calcubal\obj\Debug\netcoreapp3.0\calcubal.AssemblyInfo.cs
+C:\Users\Че\source\repos\calcubal\calcubal\bin\Debug\netcoreapp3.0\calcubal.exe
+C:\Users\Че\source\repos\calcubal\calcubal\bin\Debug\netcoreapp3.0\calcubal.deps.json
+C:\Users\Че\source\repos\calcubal\calcubal\bin\Debug\netcoreapp3.0\calcubal.runtimeconfig.json
+C:\Users\Че\source\repos\calcubal\calcubal\bin\Debug\netcoreapp3.0\calcubal.runtimeconfig.dev.json
+C:\Users\Че\source\repos\calcubal\calcubal\bin\Debug\netcoreapp3.0\calcubal.dll
+C:\Users\Че\source\repos\calcubal\calcubal\bin\Debug\netcoreapp3.0\calcubal.pdb
+C:\Users\Че\source\repos\calcubal\calcubal\obj\Debug\netcoreapp3.0\calcubal.dll
+C:\Users\Че\source\repos\calcubal\calcubal\obj\Debug\netcoreapp3.0\calcubal.pdb
